@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(240, 101, 101);
+    font-family: Verdana;
+    font-size: 24px;
+}
+
+.special_size {
+    font-size: 36px;
+}
+
+#two {
+    color: rgb(0, 0, 240);
+}
+
+#four {
+    background-color: rgb(112, 235, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
